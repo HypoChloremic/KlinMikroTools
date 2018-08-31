@@ -1,0 +1,12 @@
+anaerococcus
+bacteroides
+fusobacterium
+clostridium
+dialister
+eggerthella
+finegoldia
+parvimonas
+peptoniphilus
+prevotella
+solobacterium
+veillonella
