@@ -1,1 +1,0 @@
-"actinobaculum","actinomyces","actinotignum","anaerococcus","bacteroides","bifidobacterium","clostridium","dialister","eggerthella","finegoldia","fusobacterium","gardnerella","lactobacillus","lactococcus","parvimonas","peptoniphilus","prevotella", "solobacterium", "veillonella"
